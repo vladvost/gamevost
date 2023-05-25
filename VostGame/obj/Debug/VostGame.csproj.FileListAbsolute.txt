@@ -1,0 +1,16 @@
+C:\Users\gohbs\source\repos\VostGame\VostGame\bin\Debug\VostGame.exe.config
+C:\Users\gohbs\source\repos\VostGame\VostGame\bin\Debug\VostGame.exe
+C:\Users\gohbs\source\repos\VostGame\VostGame\bin\Debug\VostGame.pdb
+C:\Users\gohbs\source\repos\VostGame\VostGame\obj\Debug\VostGame.csproj.AssemblyReference.cache
+C:\Users\gohbs\source\repos\VostGame\VostGame\obj\Debug\VostGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\gohbs\source\repos\VostGame\VostGame\obj\Debug\MainWindow.g.cs
+C:\Users\gohbs\source\repos\VostGame\VostGame\obj\Debug\App.g.cs
+C:\Users\gohbs\source\repos\VostGame\VostGame\obj\Debug\VostGame_MarkupCompile.cache
+C:\Users\gohbs\source\repos\VostGame\VostGame\obj\Debug\VostGame_MarkupCompile.lref
+C:\Users\gohbs\source\repos\VostGame\VostGame\obj\Debug\MainWindow.baml
+C:\Users\gohbs\source\repos\VostGame\VostGame\obj\Debug\VostGame.g.resources
+C:\Users\gohbs\source\repos\VostGame\VostGame\obj\Debug\VostGame.Properties.Resources.resources
+C:\Users\gohbs\source\repos\VostGame\VostGame\obj\Debug\VostGame.csproj.GenerateResource.cache
+C:\Users\gohbs\source\repos\VostGame\VostGame\obj\Debug\VostGame.csproj.CoreCompileInputs.cache
+C:\Users\gohbs\source\repos\VostGame\VostGame\obj\Debug\VostGame.exe
+C:\Users\gohbs\source\repos\VostGame\VostGame\obj\Debug\VostGame.pdb
